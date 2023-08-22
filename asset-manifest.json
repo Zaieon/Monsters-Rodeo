@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monsters-Rodeo/static/css/main.d4bcc465.css",
+    "main.js": "/Monsters-Rodeo/static/js/main.dcc4640d.js",
+    "static/js/787.11e512d1.chunk.js": "/Monsters-Rodeo/static/js/787.11e512d1.chunk.js",
+    "index.html": "/Monsters-Rodeo/index.html",
+    "main.d4bcc465.css.map": "/Monsters-Rodeo/static/css/main.d4bcc465.css.map",
+    "main.dcc4640d.js.map": "/Monsters-Rodeo/static/js/main.dcc4640d.js.map",
+    "787.11e512d1.chunk.js.map": "/Monsters-Rodeo/static/js/787.11e512d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4bcc465.css",
+    "static/js/main.dcc4640d.js"
+  ]
+}
