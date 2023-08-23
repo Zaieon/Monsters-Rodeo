@@ -5,7 +5,7 @@
     border: 1px solid grey;
     border-radius: 5px;
     padding: 25px;
-    cursor: pointer;
+    /* cursor: pointer; */
     font-smooth: grayscale;
     backface-visibility: hidden;
     transform: translateZ(0);
@@ -14,4 +14,11 @@
 
 .card-container:hover {
     transform: scale(1.05);
+}
+
+.delete {
+    /* z-index: 3; */
+    position: relative;
+    cursor: pointer;
+    padding: 0px;
 }
